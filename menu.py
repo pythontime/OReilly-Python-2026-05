@@ -6,3 +6,5 @@ def menu(options):
             return user_choice
     
         print(f'Choose a valid option from {options}')    
+
+if __name__ ==         
